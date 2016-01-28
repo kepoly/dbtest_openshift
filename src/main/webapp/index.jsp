@@ -14,7 +14,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Fighting with Git!</h1>
         <%=SampleCode.getJSON()%>
+        <h2>Added another line</h2>
     </body>
 </html>
