@@ -16,5 +16,5 @@
     <body>
         <h1>Goodnight Moon!</h1>
         <%=SampleCode.getJSON()%>
+        <h2>Added another line</h2>
     </body>
-</html>
